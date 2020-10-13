@@ -14,3 +14,8 @@
 # Упражнение 2. Первое задание ЛР xml_intro.  
 ### [DTD](https://kodaktor.ru/j/dtd_b670f)
 ### [Документ](https://kodaktor.ru/x/b2fa00e)
+
+# Упражнение 3. ЛР Введение в JSON (json_intro).  
+### [JSON](https://kodaktor.ru/j/newjson_b7bf0)  
+### [SCHEMA](https://kodaktor.ru/j/57cdab0)  
+### [Валидация](https://www.jsonschemavalidator.net/s/0G5n37Wp)
