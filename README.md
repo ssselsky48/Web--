@@ -19,3 +19,9 @@
 ### [JSON](https://kodaktor.ru/j/newjson_b7bf0)  
 ### [SCHEMA](https://kodaktor.ru/j/57cdab0)  
 ### [Валидация](https://www.jsonschemavalidator.net/s/0G5n37Wp)
+
+# Funck007
+### [Fucnk007](https://kodaktor.ru/?!=func_7a0d3)
+
+# Задание 19.11
+### [19.11](https://kodaktor.ru/g/ab1f6f1)
